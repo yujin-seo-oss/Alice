@@ -1,3 +1,1 @@
-Alice: "Project Maintainer"
-
-Alice: Alice@hansung.ac.kr
+Bob: Contributor
